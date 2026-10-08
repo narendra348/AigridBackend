@@ -2,7 +2,7 @@ package com.example.SBRender1;
 
 import org.springframework.web.bind.annotation.*;
 
-@CrossOrigin(origins = "*")
+@CrossOrigin(origins ="https://aigridfrontend.onrender.com")
 @RestController
 @RequestMapping("/api")
 public class HelloController {
